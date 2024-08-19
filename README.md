@@ -113,6 +113,8 @@ Finally, prompt engineering enhances the overall user experience by making inter
 In summary, prompt engineering is crucial for optimizing AI interactions, ensuring accuracy, efficiency, consistency, and a positive user experience.
 
 
+
+
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 An example of a Vague Prompt: What are the colours of the animals in your country?
